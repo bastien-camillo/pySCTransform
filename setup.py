@@ -43,7 +43,7 @@ setup(
     setup_requires=requirements,
     test_suite="tests",
     tests_require=test_requirements,
-    url="https://github.com/saketkc/pysctransform",
+    url="https://github.com/bsten-camillo/pysctransform",
     version="0.1.1",
     zip_safe=False,
 )
